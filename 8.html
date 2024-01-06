@@ -1,0 +1,294 @@
+ <!-----META SECTION----->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Student Portfolio Website Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="8.css">
+</head>
+<body>
+
+<!-----MENU SECTION------>
+<div class="main-panel">
+  <div class="container">
+    <div class="width-33 logo">MyPort <span class="span-col">folio</span>
+    </div>
+    <div class="width-66">
+      <nav>
+	  
+	  
+      <ul>
+        <li><a href="#home">Home  </a></li>
+        <li><a href="#abt">About Me  </a></li>
+        <li><a href="#portfolio">Portfolio  </a></li>
+		<li><a href="#project">Projects </a></li>
+		<li><a href="#education">Education  </a></li>
+		<li><a href="#gallary">Gallery </a></li>
+		
+      </ul>
+    
+        <!--<a href="#">
+          <span class="span-col">Home</span>
+        </a>
+        <a href="#about">About me</a>
+        <a href="#education">Education |</a>
+		 <a href="#">Portfolio</a>-->
+        <!--<a href="#">My Services</a>-->
+        
+        <!--<a href="#">Testimonial</a>-->
+      </nav>
+    </div>
+  </div>
+  
+  <!------MAIN BANNERR------>
+  <section id="home">
+<div class="container ">
+  <div class="width-50">
+    <div class="banner-section">
+     
+      <h1>PANCHAMI <span class="span-col">DINESH</span>
+      </h1>
+      <h2>- I'm a Computer Science student from INDIA
+	  .</h2>
+      <a href="#">
+        <i class="fa fa-facebook" href="https://www.facebook.com"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-twitter"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-linkedin" href="www.linkedin.com/in/panchami-dinesh-a116052a7"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-instagram"></i>
+      </a>
+      <a href="#">
+        <i class="fa fa-github"></i>
+      </a>
+    </div>
+  </div>
+  <div class="width-50">
+   
+  </div>
+</div>
+</div>
+</section>
+
+<!------ABOUT US SECTION------>
+<section  id="abt">
+<div class="main-section bg-lightgrey">
+  <div class="container">
+    <div class="width-50">
+      <img src="myself.png" class="about-img">
+    </div>
+    <div class="width-50">
+      <div class="about-us">
+        <h2 class="heading-text">About Me</h2>
+        <h3>I am available for coding Project</h3>
+        <p>Hi, I am PANCHAMI, From INDIA. Get best computer science student portfolio website Genius In You With Genius 2023. Welcome To The Best Private University in 2023.</p>
+        <div class="width-50 mt-20">
+          <table cellspacing="8" cellpadding="8">
+            <tr>
+              <th>Name:</th>
+              <td>PANCHAMI DINESH</td>
+            </tr>
+            <tr>
+              <th>Email:</th>
+              <td> panchamidinesh@gamilcom</td>
+            </tr>
+            <tr>
+              <th>Birthday:</th>
+              <td> 17 May, 2005</td>
+            </tr>
+            <tr>
+              <th>Study:</th>
+              <td> RV University</td>
+            </tr>
+          </table>
+        </div>
+        <div class="width-50 mt-20">
+          <table cellspacing="8" cellpadding="8">
+            <tr>
+              <th>Phone:</th>
+              <td>(+91)9380014420 </td>
+            </tr>
+            <tr>
+              <th>City:</th>
+              <td>Banglore, INDIA</td>
+            </tr>
+            <tr>
+              <th>Freelancer:</th>
+              <td> Available</td>
+            </tr>
+            <tr>
+              <th>Website:</th>
+              <td> www.xyz.com</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<!------SKILL SECTION------>
+<section id="Portfolio">
+<div class="main-section">
+  <div class="container">
+    <h2 class="heading-text">My Skills</h2>
+    <div class="width-50">
+      <div class="skill">
+        <b>HTML</b>
+        <span>95%</span>
+        <div>
+          <span style="width:95%"></span>
+        </div>
+      </div>
+      <div class="skill">
+        <b>CSS</b>
+        <span>91%</span>
+        <div>
+          <span style="width:91%"></span>
+        </div>
+      </div>
+      <div class="skill">
+        <b>JavaScript</b>
+        <span>50%</span>
+        <div>
+          <span style="width:50%"></span>
+        </div>
+      </div>
+	  <div class="skill">
+        <b>C</b>
+        <span>82%</span>
+        <div>
+          <span style="width:85%"></span>
+        </div>
+      </div>
+      
+    </div>
+    <div class="width-50">
+      <div class="width-50">
+        <div role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="--value:65">HTML-95</div>
+      </div>
+      <div class="width-50">
+        <div role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="--value:85">CSS-91</div>
+      </div>
+      <div class="width-50">
+        <div role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="--value:65">JavaScript-50</div>
+      </div>
+      <div class="width-50">
+        <div role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="--value:85">C-82</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<section id="project">
+ <div class="project">
+ <center><h2>My Projects</h2></center>
+ <h3><ul>
+<li> - THE FRENCH BEANARY Website using html css and js</li>
+<li> - DSCA-musical lights</li>
+<li> - Creation of ROLL AND MOVE board game</li>
+</ul></h3>
+</div>
+</section>
+<!------EXPERIENCE/ EDUCATION SECTION------>
+<section id="education">
+<div class="main-section bg-lightgrey">
+  <div class="container">
+    <div class="edu-exp">
+      <h2 class="heading-text">Education</h2>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2> UG-RV University </h2>
+          <h3>2023-2027</h3>
+          <p>Btech in Computer Engineering</p>
+        </div>
+      </div>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>Surana Deeksha</h2>
+          <h3>2021-2023</h3>
+          <p>PCMB</p>
+        </div>
+      </div>
+	  
+    </div>
+	
+	
+    <div class="edu-exp">
+      <h2 class="heading-text">Experience</h2>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>XYZ Inc Company</h2>
+          <h3>2023-current</h3>
+          <p>Font End Developer</p>
+        </div>
+      </div>
+      <div class="experience-list">
+        <div class="experience-content">
+          <h2>ABC Inc Company</h2>
+          <h3>2021-2023</h3>
+          <p>Graphic design student portfolio websites template.</p>
+        </div>
+      </div>
+      
+      
+    </div>
+  </div>
+</div>
+</section>
+
+<!--IMAGE GALLARY-->
+<section id="gallery">
+<center><div class="slideshow-container">
+
+  <!--  code for the image slider -->
+  <div class="mySlides fade">
+    <img src="achievement1.png" style="width:100%">
+    <div class="text">achievement 1</div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="achievement2.png" style="width:100%">
+    <div class="text">achievement 2</div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="achievement3.png" style="width:100%">
+    <div class="text">achievement 3</div>
+  </div>
+  
+  
+
+</div></center></section>
+<br>
+
+<!-- The dots/circles below the image -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  
+</div>
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}
+  slides[slideIndex-1].style.display = "block";
+  setTimeout(showSlides, 2000); //   Changes image every 2 seconds
+}
+</script>
